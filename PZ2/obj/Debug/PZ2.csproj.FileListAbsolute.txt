@@ -1,0 +1,75 @@
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\bin\Debug\PZ3.exe.config
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\bin\Debug\PZ3.exe
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\bin\Debug\PZ3.pdb
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\obj\Debug\MainWindow.g.cs
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\obj\Debug\App.g.cs
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\obj\Debug\PZ3_MarkupCompile.cache
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\obj\Debug\PZ3_MarkupCompile.lref
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\obj\Debug\MainWindow.baml
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\obj\Debug\PZ3.g.resources
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\obj\Debug\PZ3.Properties.Resources.resources
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\obj\Debug\PZ3.exe
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2_Milos_Djukic\obj\Debug\PZ3.pdb
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\bin\Debug\PZ3.exe.config
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\bin\Debug\PZ3.exe
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\bin\Debug\PZ3.pdb
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\obj\Debug\PZ3_MarkupCompile.cache
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\obj\Debug\PZ3_MarkupCompile.lref
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\obj\Debug\PZ3.g.resources
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\obj\Debug\PZ3.Properties.Resources.resources
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\obj\Debug\PZ3.exe
+C:\Users\mikit\Desktop\GRAFIKA-STEFAN\PZ2\PZ2\obj\Debug\PZ3.pdb
+C:\Users\mikit\Desktop\PZ2\PZ2\bin\Debug\PZ3.exe.config
+C:\Users\mikit\Desktop\PZ2\PZ2\bin\Debug\PZ3.exe
+C:\Users\mikit\Desktop\PZ2\PZ2\bin\Debug\PZ3.pdb
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ3_MarkupCompile.cache
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ3_MarkupCompile.lref
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ3.g.resources
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ3.Properties.Resources.resources
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ3.exe
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ3.pdb
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\bin\Debug\PZ2.exe
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\obj\Debug\PZ2.exe
+C:\Users\katar\OneDrive\Radna površina\PZ2\PZ2\obj\Debug\PZ2.pdb
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\bin\Debug\PZ2.exe.config
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\bin\Debug\PZ2.exe
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\bin\Debug\PZ2.pdb
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\obj\Debug\App.g.cs
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\obj\Debug\MainWindow.baml
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\obj\Debug\PZ2.g.resources
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\obj\Debug\PZ2.exe
+F:\4. godina\2. semestar\grafika\PZ2\PZ2\obj\Debug\PZ2.pdb

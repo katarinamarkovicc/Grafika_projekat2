@@ -1,0 +1,15 @@
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\bin\Debug\PZ3.exe.config
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\bin\Debug\PZ3.exe
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\bin\Debug\PZ3.pdb
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\obj\Debug\PZ2_Milos_Djukic.csproj.AssemblyReference.cache
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\obj\Debug\MainWindow.g.cs
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\obj\Debug\App.g.cs
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\obj\Debug\PZ3_MarkupCompile.cache
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\obj\Debug\PZ3_MarkupCompile.lref
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\obj\Debug\MainWindow.baml
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\obj\Debug\PZ3.g.resources
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\obj\Debug\PZ3.Properties.Resources.resources
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\obj\Debug\PZ2_Milos_Djukic.csproj.GenerateResource.cache
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\obj\Debug\PZ2_Milos_Djukic.csproj.CoreCompileInputs.cache
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\obj\Debug\PZ3.exe
+D:\4_GOD\SEMESTAR 2\GRAFIKA\PZ2\PZ3\obj\Debug\PZ3.pdb

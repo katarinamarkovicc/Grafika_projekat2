@@ -1,0 +1,45 @@
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\bin\Debug\PZ3.exe.config
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\bin\Debug\PZ3.exe
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\bin\Debug\PZ3.pdb
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\obj\Debug\PZ3.csproj.AssemblyReference.cache
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\obj\Debug\MainWindow.g.cs
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\obj\Debug\App.g.cs
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\obj\Debug\PZ3_MarkupCompile.cache
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\obj\Debug\PZ3_MarkupCompile.lref
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\obj\Debug\MainWindow.baml
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\obj\Debug\PZ3.g.resources
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\obj\Debug\PZ3.Properties.Resources.resources
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\obj\Debug\PZ3.csproj.GenerateResource.cache
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\obj\Debug\PZ3.csproj.CoreCompileInputs.cache
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\obj\Debug\PZ3.exe
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\PZ3\PZ3\obj\Debug\PZ3.pdb
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\bin\Debug\PZ3.exe.config
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\bin\Debug\PZ3.exe
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\bin\Debug\PZ3.pdb
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\obj\Debug\PZ3.csproj.AssemblyReference.cache
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\obj\Debug\MainWindow.g.cs
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\obj\Debug\App.g.cs
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\obj\Debug\PZ3_MarkupCompile.cache
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\obj\Debug\PZ3_MarkupCompile.lref
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\obj\Debug\MainWindow.baml
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\obj\Debug\PZ3.g.resources
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\obj\Debug\PZ3.Properties.Resources.resources
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\obj\Debug\PZ3.csproj.GenerateResource.cache
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\obj\Debug\PZ3.csproj.CoreCompileInputs.cache
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\obj\Debug\PZ3.exe
+D:\4_GOD\SEMESTAR 2\GRAFIKA\grafika\Grafika Cvele\PZ3-20210527T082005Z-001\PZ3\Grupa 3,4\HRISTOV\PZ3\obj\Debug\PZ3.pdb
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\bin\Debug\PZ3.exe.config
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\bin\Debug\PZ3.exe
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\bin\Debug\PZ3.pdb
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\obj\Debug\PZ3.csproj.AssemblyReference.cache
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\obj\Debug\MainWindow.g.cs
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\obj\Debug\App.g.cs
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\obj\Debug\PZ3_MarkupCompile.cache
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\obj\Debug\PZ3_MarkupCompile.lref
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\obj\Debug\MainWindow.baml
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\obj\Debug\PZ3.g.resources
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\obj\Debug\PZ3.Properties.Resources.resources
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\obj\Debug\PZ3.csproj.GenerateResource.cache
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\obj\Debug\PZ3.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\obj\Debug\PZ3.exe
+C:\Users\katar\OneDrive\Radna površina\PZ3\PZ3\obj\Debug\PZ3.pdb

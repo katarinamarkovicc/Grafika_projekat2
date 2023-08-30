@@ -1,0 +1,15 @@
+C:\Users\mikit\Desktop\PZ2\PZ2\bin\Debug\PZ3.exe.config
+C:\Users\mikit\Desktop\PZ2\PZ2\bin\Debug\PZ3.exe
+C:\Users\mikit\Desktop\PZ2\PZ2\bin\Debug\PZ3.pdb
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ2_Stefan_Ljubinkovic.csproj.AssemblyReference.cache
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ3_MarkupCompile.cache
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ3_MarkupCompile.lref
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ3.g.resources
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ3.Properties.Resources.resources
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ2_Stefan_Ljubinkovic.csproj.GenerateResource.cache
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ2_Stefan_Ljubinkovic.csproj.CoreCompileInputs.cache
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ3.exe
+C:\Users\mikit\Desktop\PZ2\PZ2\obj\Debug\PZ3.pdb
